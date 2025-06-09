@@ -80,14 +80,14 @@ Esta pausa no es una interrupción, sino parte del proceso: reflexionar, redise�
 
 A.U.R.O.R.A. es un proyecto personal, en constante evolución y profundamente vinculado a mi forma de pensar, crear y crecer como desarrollador.
 
-No está pensado como un proyecto open source ni colaborativo en esta etapa. Sin embargo, si te interesa su enfoque técnico, su visión o querés compartir ideas afines, podés contactarme.
+Si te interesa su enfoque técnico, su visión o querés compartir ideas afines, podés contactarme.
 
 ---
+## 📄 Licencia
+
+Este proyecto no es open source. Las ideas compartidas aquí son solo con fines de documentación personal y presentación profesional. No se autoriza su uso ni reproducción sin consentimiento.
 
 **“El progreso real nace de la paciencia, la autocrítica y el aprendizaje constante.”**  
 — Castillo Nicolás A. (Nickocast / Code-fy)
 
 ---
-
-
-
