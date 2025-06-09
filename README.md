@@ -42,7 +42,7 @@ El proyecto se encuentra en pausa temporal mientras se aprende y aplica Docker, 
 - 🔒 **Privacidad total y control local**  
   Todas las inferencias y datos del usuario se procesan en local. Nada se comparte fuera del equipo. La soberanía del usuario es prioridad.
 
-- 💻 **Integración profunda con el sistema operativo**  
+- 💻 **Integración profunda con el sistema operativo** *(futuro)*    
   Desde ejecutar scripts hasta notificar al usuario según condiciones internas o externas, A.U.R.O.R.A. actúa como una interfaz activa entre humano y máquina.
   
 - 🧭 **Interacción autónoma basada en eventos** *(futuro)*  
