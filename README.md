@@ -61,7 +61,7 @@ El proyecto se encuentra en pausa temporal mientras se aprende y aplica Docker, 
 
 ---
 
-💡 ¿Por qué A.U.R.O.R.A.?
+## 💡 ¿Por qué A.U.R.O.R.A.?
 
 A.U.R.O.R.A. representa más que un simple asistente virtual. Es mi visión personal de cómo debería funcionar una inteligencia artificial local: con razonamiento contextual, interpretación emocional y capacidad de actuar con autonomía.
 
