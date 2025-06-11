@@ -1,5 +1,5 @@
 # A.U.R.O.R.A.  
-_Asistente Única con Razonamiento Operativo y Autónoma_
+_Asistente Única, Autónoma y con Razonamiento Operativo_
 
 ---
 
@@ -19,7 +19,7 @@ El proyecto se encuentra en pausa temporal mientras se aprende y aplica Docker, 
 
 ## 🎯 Objetivos del Proyecto
 
-**A.U.R.O.R.A.** (Asistente Única con Razonamiento Operativo y Autónoma) busca ir más allá de un simple asistente: es un sistema modular diseñado para evolucionar hacia una entidad autónoma, adaptable y consciente del contexto humano.
+**A.U.R.O.R.A.** (Asistente Única, Autónoma y con Razonamiento Operativo) busca ir más allá de un simple asistente: es un sistema modular diseñado para evolucionar hacia una entidad autónoma, adaptable y consciente del contexto humano.
 
 - 🧩 **Arquitectura modular y escalable**   
   Separación de funcionalidades (voz, emociones, razonamiento, comandos, interfaz) mediante servicios dockerizados para facilitar el mantenimiento, la expansión y la eficiencia.
